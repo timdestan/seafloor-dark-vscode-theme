@@ -1,12 +1,14 @@
 {
-  "name": "bluegreen",
-  "displayName": "Bluegreen",
+  "name": "seafloor-dark",
+  "displayName": "Seafloor Dark",
   "description": "A dark teal VSCode theme",
   "version": "0.0.1",
   "publisher": "timdestan",
+  "license": "MIT",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timdestan/bluegreen-vscode-theme"
+    "url": "https://github.com/timdestan/seafloor-dark-vscode-theme"
   },
   "engines": {
     "vscode": "^1.0.0"
@@ -17,9 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bluegreen",
+        "label": "Seafloor Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/bluegreen-color-theme.json"
+        "path": "./themes/seafloor-dark-color-theme.json"
       }
     ]
   }

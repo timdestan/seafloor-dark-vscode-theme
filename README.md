@@ -1,10 +1,10 @@
-# Bluegreen
+# Seafloor Dark
 
 A dark teal VSCode theme.
 
 ## Preview
 
-![Bluegreen theme screenshot](images/screenshot.png)
+![Seafloor Dark theme screenshot](images/screenshot.png)
 
 ## Installation
 
@@ -22,10 +22,10 @@ A dark teal VSCode theme.
 
 3. Install it into VSCode:
    ```
-   code.cmd --install-extension bluegreen-0.0.1.vsix
+   code.cmd --install-extension seafloor-dark-0.0.1.vsix
    ```
 
-4. Restart VSCode, then select **Bluegreen** via `Ctrl+K Ctrl+T`.
+4. Restart VSCode, then select **Seafloor Dark** via `Ctrl+K Ctrl+T`.
 
 ### Updating
 
@@ -33,7 +33,7 @@ After making changes to the theme, repackage and reinstall:
 
 ```
 vsce package
-code.cmd --install-extension bluegreen-0.0.1.vsix
+code.cmd --install-extension seafloor-dark-0.0.1.vsix
 ```
 
 VSCode will replace the old version. Reload the window (`Ctrl+Shift+P` → "Reload Window") to see changes.

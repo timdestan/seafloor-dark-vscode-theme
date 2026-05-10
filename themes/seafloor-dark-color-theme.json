@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Bluegreen",
+  "name": "Seafloor Dark",
   "type": "dark",
   "colors": {
     "editor.background": "#042328",
