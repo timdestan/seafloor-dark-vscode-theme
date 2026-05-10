@@ -1,9 +1,13 @@
 {
   "name": "bluegreen",
   "displayName": "Bluegreen",
-  "description": "A dark teal VSCode theme ported from the Emacs bluegreen theme",
+  "description": "A dark teal VSCode theme",
   "version": "0.0.1",
   "publisher": "timdestan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timdestan/bluegreen-vscode-theme"
+  },
   "engines": {
     "vscode": "^1.0.0"
   },
