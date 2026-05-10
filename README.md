@@ -2,6 +2,10 @@
 
 A dark teal VSCode theme.
 
+## Preview
+
+![Bluegreen theme screenshot](images/screenshot.png)
+
 ## Installation
 
 ### From VSIX (recommended)
