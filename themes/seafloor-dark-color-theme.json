@@ -148,7 +148,7 @@
     "gitDecoration.modifiedResourceForeground": "#f9e2af",
     "gitDecoration.deletedResourceForeground": "#f38ba8",
     "gitDecoration.untrackedResourceForeground": "#8ADF90",
-    "gitDecoration.ignoredResourceForeground": "#45475a",
+    "gitDecoration.ignoredResourceForeground": "#587477",
     "gitDecoration.conflictingResourceForeground": "#cba6f7",
     "diffEditor.insertedTextBackground": "#54ce6220",
     "diffEditor.removedTextBackground": "#f38ba820",
