@@ -13,7 +13,7 @@
     "editor.findMatchBackground": "#f9e2af",
     "editor.findMatchForeground": "#1e1e2e",
     "editor.findMatchHighlightBackground": "#fab38780",
-    "editor.findMatchHighlightForeground": "#1e1e2e",
+    "editor.findMatchHighlightForeground": "#1e1e2eA0",
     "editor.findRangeHighlightBackground": "#0a354040",
     "editorLineNumber.foreground": "#1e4a52",
     "editorLineNumber.activeForeground": "#5e8c85",
@@ -22,7 +22,7 @@
     "editorIndentGuide.activeBackground1": "#2a5560",
     "editorWhitespace.foreground": "#1e354060",
     "editorBracketMatch.background": "#cba6f730",
-    "editorBracketMatch.border": "#cba6f7",
+    "editorBracketMatch.border": "#00e5bf",
     "editorBracketHighlight.foreground1": "#4d8a7a",
     "editorBracketHighlight.foreground2": "#5a8898",
     "editorBracketHighlight.foreground3": "#6a9070",
@@ -31,7 +31,7 @@
     "editorBracketHighlight.foreground6": "#4a7a8a",
     "editorBracketHighlight.unexpectedBracket.foreground": "#f38ba880",
     "editorOverviewRuler.border": "#1e1e2e",
-    "editorOverviewRuler.findMatchForeground": "#f9e2af",
+    "editorOverviewRuler.findMatchForeground": "#f9e2afA0",
     "editorOverviewRuler.selectionHighlightForeground": "#000FFF80",
     "editorWidget.background": "#1e1e2e",
     "editorWidget.border": "#2a5560",
@@ -82,9 +82,8 @@
     "tab.activeBackground": "#042328",
     "tab.activeForeground": "#B3C4C5",
     "tab.inactiveBackground": "#021a1e",
-    "tab.inactiveForeground": "#45475a",
+    "tab.inactiveForeground": "#6b8c8f",
     "tab.hoverBackground": "#0a3540",
-    "tab.activeBorder": "#2DA697",
     "tab.border": "#021a1e",
     "tab.activeBorderTop": "#00000000",
     "editorGroupHeader.tabsBackground": "#021a1e",
@@ -140,7 +139,6 @@
     "pickerGroup.foreground": "#45475a",
     "quickInput.background": "#021a1e",
     "quickInput.foreground": "#A8A88D",
-    "quickInputHighlight.background": "#2DA69740",
     "focusBorder": "#2DA697",
     "foreground": "#A8A88D",
     "descriptionForeground": "#45475a",
@@ -234,7 +232,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#B3C4C5"
+        "foreground": "#d6e3e4"
       }
     },
     {
@@ -276,7 +274,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#B3C4C5"
+        "foreground": "#d6e3e4"
       }
     },
     {
